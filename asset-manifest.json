@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/techseries/static/css/main.03760347.chunk.css",
+    "main.js": "/techseries/static/js/main.99df61a5.chunk.js",
+    "main.js.map": "/techseries/static/js/main.99df61a5.chunk.js.map",
+    "runtime-main.js": "/techseries/static/js/runtime-main.ca75630b.js",
+    "runtime-main.js.map": "/techseries/static/js/runtime-main.ca75630b.js.map",
+    "static/js/2.a663e0d2.chunk.js": "/techseries/static/js/2.a663e0d2.chunk.js",
+    "static/js/2.a663e0d2.chunk.js.map": "/techseries/static/js/2.a663e0d2.chunk.js.map",
+    "index.html": "/techseries/index.html",
+    "static/css/main.03760347.chunk.css.map": "/techseries/static/css/main.03760347.chunk.css.map",
+    "static/js/2.a663e0d2.chunk.js.LICENSE.txt": "/techseries/static/js/2.a663e0d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca75630b.js",
+    "static/js/2.a663e0d2.chunk.js",
+    "static/css/main.03760347.chunk.css",
+    "static/js/main.99df61a5.chunk.js"
+  ]
+}
